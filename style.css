@@ -95,7 +95,13 @@ li {
     }
 
     .card {
-        width: 400px;
+        width: 100%;
+
+    }
+
+    li {
+       
+        margin: 10px;
     }
 
 }
